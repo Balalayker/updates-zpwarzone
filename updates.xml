@@ -1,0 +1,44 @@
+<products>
+<productname>
+<title name="MRON 4">8.08.2024</title>
+<text>
+- Добавлена кнопка активности в Discord;
+- Новые зоны: Twins и Bridge;
+- Включен devfeatures в dll;
+- Включен unlockAllItems в dll;
+- Добавлена автоматизация сохранения настроек;
+- ZPWZ Localize.exe для выбора языка, шрифта и локальной папки;
+- Поддержка MRON 4.
+</text>
+<link>https://zaporozhye.forum2x2.ru/t30p50-topic#3539</link>
+</productname>
+
+<productname>
+<title name="Easter Update">5.05.2024</title>
+<text>
+- Добавлено Бан меню в F1;
+- Новые зоны: Dam city, Dam River, RiverSide, Burger Town, Epoha import;
+- Режимы для MRON по разделам в F1;
+- Редакция меню F1 для ENG;
+- ZPWZ.exe для универсального запуска игры и сети;
+- Новый ZP Warzone.exe.
+</text>
+<link>https://zaporozhye.forum2x2.ru/t30p50-topic#3602</link>
+</productname>
+
+<productname>
+<title name="MRON v3.2.0">4.04.2024</title>
+<text>
+- Теперь ранг 155;
+- Уплотнение шрифта;
+- ENG локализация в комплекте;
+- Рабочие карты для ENG в конце списка;
+- Меню F1 переведено на русский, удалено не рабочее;
+- br_core.cfg возвращён в autoexec.cfg;
+- Добавлен пункт "сохранить настройки" в меню F1;
+- Имя игры, иконка и сплеш в новом exe и Discord;
+- Поддержка MRON v3.2.0.
+</text>
+<link>https://zaporozhye.forum2x2.ru/t30p50-topic#3598</link>
+</productname>
+</products>
